@@ -8,3 +8,7 @@
    8 git commit -m "first commit"
    9 git push
   10 git push --set-upstream origin master
+  11 history
+  12 git add .
+  13 git commit -m "command history added"
+  14 git push
